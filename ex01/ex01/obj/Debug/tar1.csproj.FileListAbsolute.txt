@@ -1,0 +1,7 @@
+C:\Users\Efrat\Desktop\repo\ex01\ex01\bin\Debug\ex01.exe.config
+C:\Users\Efrat\Desktop\repo\ex01\ex01\bin\Debug\ex01.exe
+C:\Users\Efrat\Desktop\repo\ex01\ex01\bin\Debug\ex01.pdb
+C:\Users\Efrat\Desktop\repo\ex01\ex01\obj\Debug\tar1.csproj.AssemblyReference.cache
+C:\Users\Efrat\Desktop\repo\ex01\ex01\obj\Debug\tar1.csproj.CoreCompileInputs.cache
+C:\Users\Efrat\Desktop\repo\ex01\ex01\obj\Debug\ex01.exe
+C:\Users\Efrat\Desktop\repo\ex01\ex01\obj\Debug\ex01.pdb

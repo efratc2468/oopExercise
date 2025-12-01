@@ -1,0 +1,2 @@
+C:\Users\Efrat\Desktop\repo\ex01\tar6\obj\Debug\tar6.csproj.AssemblyReference.cache
+C:\Users\Efrat\Desktop\repo\ex01\tar6\obj\Debug\tar6.csproj.CoreCompileInputs.cache
